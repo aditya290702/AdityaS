@@ -1,0 +1,5 @@
+def minandmax(l):
+
+
+
+
